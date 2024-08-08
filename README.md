@@ -24,10 +24,4 @@ Welcome to the **TRVLS WRLD** website! This is a simple and responsive web appli
 - CSS
 - JavaScript (optional for future enhancements)
 
-## Getting Started
 
-To get a local copy of this project up and running, follow these steps:
-
-1. Clone the repository to your local machine using:
-   ```bash
-   git clone https://github.com/yourusername/trvls-wrld.git
